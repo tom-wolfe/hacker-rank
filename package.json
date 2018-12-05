@@ -1,0 +1,23 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "Solutions to problems from Hacker Rank",
+  "main": "dist/bundle.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trwolfe13/hacker-rank.git"
+  },
+  "author": "Thomas R. Wolfe (trwolfe13)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trwolfe13/hacker-rank/issues"
+  },
+  "homepage": "https://github.com/trwolfe13/hacker-rank#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  },
+  "dependencies": {
+  }
+}
